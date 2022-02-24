@@ -18,34 +18,34 @@
 ![Screenshot](img/5_scaffold.PNG)
 ### 6. Dialog
 ![Screenshot](img/6_dialog.PNG)
-7. Input dan Selection Widget
+### 7. Input dan Selection Widget
 ![Screenshot](img/7_inputselection.PNG)
-8. Date and Time Pickers
+### 8. Date and Time Pickers
 ![Screenshot](img/8_datetimepicker.PNG)
 
 ## Build In Layout Widget
 ### Container 
-1. Property child
+#### 1. Property child
 ![Screenshot](img/9_containerchild.PNG)
-2. Property alignment
+#### 2. Property alignment
 ![Screenshot](img/10_containeralignment.PNG)
-3. Property color
+#### 3. Property color
 ![Screenshot](img/11_containercolor.PNG)
-4. Property height and width
+#### 4. Property height and width
 ![Screenshot](img/12_containerwidthheight.PNG)
-5. Property margin
+#### 5. Property margin
 ![Screenshot](img/13_containermargin.PNG)
-6. Property padding
+#### 6. Property padding
 ![Screenshot](img/14_containerpadding.PNG)
-7. Property transform
+#### 7. Property transform
 ![Screenshot](img/15_containertransform.PNG)
-8. Property decoration
+#### 8. Property decoration
 ![Screenshot](img/16_containerdecoration.PNG)
 
 ### Row dan Column
-1. Column Widget
+#### 1. Column Widget
 ![Screenshot](img/17_columnwidget.PNG)
-2. Row Widget
+#### 2. Row Widget
 ![Screenshot](img/18_rowwidget.PNG)
 
 ### Stack
