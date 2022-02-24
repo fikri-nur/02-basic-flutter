@@ -8,6 +8,7 @@
 ## Build In Widget
 1. Text Widget
 ![Screenshot](img/1_widgetText.PNG)
+
 2. Image Widget
 ![Screenshot](img/2_widgetImage.PNG)
 3. Material Design dan iOS Cupertino
