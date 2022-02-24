@@ -6,18 +6,17 @@
     Absen   : 06
 
 ## Build In Widget
-1. Text Widget
+### 1. Text Widget
 ![Screenshot](img/1_widgetText.PNG)
-
-2. Image Widget
+### 2. Image Widget
 ![Screenshot](img/2_widgetImage.PNG)
-3. Material Design dan iOS Cupertino
+### 3. Material Design dan iOS Cupertino
 ![Screenshot](img/3_cupertino.PNG)
-4. Button
+### 4. Button
 ![Screenshot](img/4_button.PNG)
-5. Scaffold
+### 5. Scaffold
 ![Screenshot](img/5_scaffold.PNG)
-6. Dialog
+### 6. Dialog
 ![Screenshot](img/6_dialog.PNG)
 7. Input dan Selection Widget
 ![Screenshot](img/7_inputselection.PNG)
