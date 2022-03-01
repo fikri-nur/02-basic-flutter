@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_basic/layout/listview.dart';
+import 'package:flutter_basic/tugas.dart';
 
 void main() {
-  runApp(const ListViewSample());
+  runApp(const MyApp());
 }

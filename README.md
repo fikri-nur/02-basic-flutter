@@ -54,3 +54,7 @@
 ![Screenshot](img/20_listview.PNG)
 ### GridView
 ![Screenshot](img/21_gridview.PNG)
+
+## Tugas
+![Screenshot](img/22_tugas.PNG)
+![Screenshot](img/23_tugas.PNG)
